@@ -6,3 +6,6 @@ added second line
 string from browser
 
 string from computer
+
+hello new stage.
+first is go
