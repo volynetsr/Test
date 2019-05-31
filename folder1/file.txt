@@ -4,3 +4,5 @@ added some line
 added second line
 
 string from browser
+
+string from computer
